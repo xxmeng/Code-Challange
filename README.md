@@ -9,7 +9,7 @@ Write a program that reads a file, where each line contains a timestamp (in yyyy
 cars seen that half hour. An example file is included on page 2. You can assume clean
 input, as these files are machine-generated.
 
-The program should output:
+## The program should output:
 • The number of cars seen in total
 • A sequence of lines where each line contains a date (in yyyy-mm-dd format) and the
 • number of cars seen on that day (eg. 2016-11-23 289) for all days listed in the input file.
@@ -17,7 +17,7 @@ The program should output:
 • The 1.5 hour period with least cars (i.e. 3 contiguous half hour records)
 
 
-Constraints
+## Constraints
 • The program can be written in Java, Scala or Python, and with any libraries you are
 familiar with. You are encouraged to use modern versions of each language and make
 use of their features.
@@ -28,13 +28,13 @@ extended by your teammates.
 excessive amounts of time on this.
 • Avoid over-engineering.
 
-Assessment
+## Assessment
 Your submission will be assessed on the following:
 • Correctness of solution
 • Readability and fluency of your code (including tests)
 • Effectiveness of your tests
 
-Sample Input
+## Sample Input
 2021-12-01T05:00:00 5
 2021-12-01T05:30:00 12
 2021-12-01T06:00:00 14
