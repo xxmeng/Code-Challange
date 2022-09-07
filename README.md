@@ -34,7 +34,7 @@ Your submission will be assessed on the following:
 • Readability and fluency of your code (including tests)
 • Effectiveness of your tests
 
-## Sample Input
+### Sample Input
 2021-12-01T05:00:00 5
 2021-12-01T05:30:00 12
 2021-12-01T06:00:00 14
